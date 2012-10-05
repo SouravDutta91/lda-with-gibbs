@@ -1,26 +1,26 @@
 Document #0:
-topic8 topic7 topic9 topic15 topic16 topic6 topic4 topic14 topic17 topic5 
+topic2 topic1 topic3 topic0 topic6 topic4 topic26 topic27 topic5 topic25 
 Document #1:
-topic7 topic8 topic6 topic15 topic5 topic14 topic1 topic9 topic16 topic2 
+topic23 topic5 topic6 topic24 topic22 topic25 topic4 topic7 topic3 topic26 
 Document #2:
-topic17 topic1 topic7 topic18 topic16 topic19 topic6 topic2 topic0 topic8 
+topic27 topic26 topic28 topic25 topic24 topic29 topic13 topic6 topic23 topic5 
 Document #3:
-topic6 topic15 topic5 topic14 topic16 topic7 topic18 topic1 topic2 topic13 
+topic18 topic17 topic13 topic19 topic11 topic12 topic26 topic28 topic6 topic16 
 Document #4:
-topic14 topic13 topic15 topic12 topic16 topic17 topic1 topic4 topic7 topic3 
+topic1 topic0 topic2 topic29 topic7 topic6 topic8 topic28 topic3 topic5 
 Document #5:
-topic6 topic5 topic7 topic4 topic13 topic8 topic12 topic14 topic15 topic17 
+topic12 topic11 topic13 topic10 topic24 topic14 topic25 topic0 topic9 topic26 
 Document #6:
-topic12 topic13 topic14 topic4 topic5 topic11 topic3 topic15 topic2 topic6 
+topic17 topic6 topic8 topic7 topic16 topic18 topic0 topic25 topic26 topic5 
 Document #7:
-topic5 topic4 topic6 topic7 topic8 topic3 topic15 topic16 topic9 topic14 
+topic4 topic5 topic3 topic6 topic23 topic25 topic24 topic26 topic7 topic22 
 Document #8:
-topic3 topic4 topic2 topic5 topic1 topic6 topic16 topic17 topic15 topic0 
+topic11 topic10 topic12 topic9 topic8 topic13 topic29 topic0 topic26 topic25 
 Document #9:
-topic2 topic1 topic3 topic13 topic14 topic15 topic16 topic0 topic6 topic7 
+topic9 topic8 topic10 topic28 topic29 topic27 topic0 topic26 topic1 topic7 
 Document #10:
-topic1 topic0 topic18 topic11 topic12 topic19 topic13 topic2 topic10 topic17 
+topic16 topic17 topic15 topic18 topic19 topic22 topic0 topic20 topic23 topic1 
 Document #11:
-topic11 topic12 topic10 topic13 topic0 topic19 topic1 topic9 topic2 topic14 
+topic16 topic15 topic17 topic14 topic18 topic8 topic19 topic24 topic13 topic25 
 Document #12:
-topic11 topic0 topic19 topic10 topic1 topic12 topic18 topic9 topic17 topic2 
+topic21 topic22 topic20 topic23 topic19 topic24 topic18 topic16 topic8 topic15 

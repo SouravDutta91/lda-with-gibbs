@@ -74,8 +74,8 @@ def main(argv):
     print "Number of documents:" + str(len(corpus.documents))
     
     number_of_topics = int(argv[1])
-    alpha = float(argv[2])
-    beta = float(argv[3])
+    alpha = float(argv[2]) # alpha = 50 / iterations
+    beta = float(argv[3]) # beta = 0.01
     max_iterations = int(argv[4])
     corpus.lda(number_of_topics, max_iterations, alpha, beta)
     

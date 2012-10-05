@@ -14,7 +14,17 @@ def Dirichlet(alpha):
     sample = [gammavariate(a,1) for a in alpha]
     sample = [v/sum(sample) for v in sample]
     return sample
-
+    
+"""
+Normalize a vector to be a probablistic representation
+"""
+def normalize(vec):
+    s = sum(vec)
+    assert(abs(s) > 1e-6) # the sum must not be 0
+    for i in range(len(vec)):
+        assert(vec[i] >= 0) # element must be >= 0
+        vec[i] = vec[i] * 1.0 / s
+        
 """
 Choose a element in @vec according to a specified distribution @pr
 Reference:
@@ -23,16 +33,13 @@ http://stackoverflow.com/questions/4437250/choose-list-variable-given-probabilit
 def choose(vec, pr):
     assert(len(vec) == len(pr))
     # normalize the distributions
-    s = sum(pr)
-    for i in range(len(pr)):
-        pr[i] = pr[i] * 1.0 / s
+    normalize(pr)
     r = random()
     index = -1
     while (r > 0):
         r = r - pr[index]
         index = index + 1
-    return index
-    
+    return vec[index]
     
 if __name__ == "__main__":
     # This is a test
