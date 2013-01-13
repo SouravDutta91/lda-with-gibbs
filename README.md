@@ -27,3 +27,4 @@ Topic modeling tools:
 * R package: [topicmodels](http://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf) and [Topic models in R](http://cran.uvigo.es/web/packages/topicmodels/vignettes/topicmodels.pdf)
 * topic-modeling-tool(A grapical user interface tool based on Mallet): http://code.google.com/p/topic-modeling-tool/
 * Topic modeling for humans: [Gensim](http://radimrehurek.com/gensim/index.html)
+* [GibbsLDA++](http://gibbslda.sourceforge.net/): A C/C++ Implementation of Latent Dirichlet Allocation
