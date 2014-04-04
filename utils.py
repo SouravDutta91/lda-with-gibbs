@@ -37,8 +37,8 @@ def choose(vec, pr):
     r = random()
     index = -1
     while (r > 0):
-        r = r - pr[index]
         index = index + 1
+        r = r - pr[index]
     return vec[index]
     
 if __name__ == "__main__":
